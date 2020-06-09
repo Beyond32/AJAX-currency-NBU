@@ -21,8 +21,4 @@ document.addEventListener("DOMContentLoaded", function () {
         table.appendChild(itemTr);
       });
     });
-
-  x.open("GET", url.value, true);
-
-  x.send();
 });
